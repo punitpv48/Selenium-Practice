@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-25T18:13:13 IST" name="Default suite" finished-at="2026-09-25T18:13:14 IST" duration-ms="919">
+    <groups>
+    </groups>
+    <test started-at="2026-09-25T18:13:13 IST" name="Default test" finished-at="2026-09-25T18:13:14 IST" duration-ms="919">
+      <class name="RESTASSURED1.SumValidation">
+        <test-method signature="sumofCourses()[pri:0, instance:RESTASSURED1.SumValidation@31d7b7bf]" started-at="2026-09-25T18:13:13 IST" name="sumofCourses" finished-at="2026-09-25T18:13:14 IST" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumofCourses -->
+      </class> <!-- RESTASSURED1.SumValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
